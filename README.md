@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📝 I regularly write articles on [https://medium.com/@sasindrisiriwardene](https://medium.com/@sasindrisiriwardene)
+- 📝 I regularly write articles on [medium](https://medium.com/@sasindrisiriwardene)
 
 - 💬 Ask me about **python,java and react**
 
 - 📫 How to reach me **sasindrisiriwardene@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sasindri-siriwardene-314320273/](https://www.linkedin.com/in/sasindri-siriwardene-314320273/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/sasindri-siriwardene-314320273/)
 
 - ⚡ Fun fact **I like to come up with new innovative business ideas**
 
